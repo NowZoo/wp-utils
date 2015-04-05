@@ -1,7 +1,7 @@
 {
   "name": "nowzoo/wp-utils",
   "description": "Various WordPress utility functions",
-  "license": "private",
+  "license": "MIT",
   "authors": [
     {
       "name": "Christopher Carson",
