@@ -1,0 +1,16 @@
+{
+  "name": "nowzoo/wp-utils",
+  "description": "Various WordPress utility functions",
+  "license": "private",
+  "authors": [
+    {
+      "name": "Christopher Carson",
+      "email": "chris@nowzoo.com"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "NowZoo\\WPUtils\\": "src/"
+    }
+  }
+}
