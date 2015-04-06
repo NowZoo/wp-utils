@@ -3,6 +3,7 @@
   "description": "Various WordPress utility functions",
   "homepage": "https://github.com/nowzoo/wp-utils",
   "license": "MIT",
+  "keywords": ["wordpress"],
   "authors": [
     {
       "name": "Christopher Carson",
