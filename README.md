@@ -1,1 +1,3 @@
-Some utilities for wordpress.
+# NowZoo WordPress Utilities 
+
+Some utilities for WordPress.

@@ -1,6 +1,7 @@
 {
   "name": "nowzoo/wp-utils",
   "description": "Various WordPress utility functions",
+  "homepage": "https://github.com/nowzoo/wp-utils",
   "license": "MIT",
   "authors": [
     {
